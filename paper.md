@@ -2,7 +2,7 @@
 Aging of biomass burning aerosols over West Africa
 
 # Author
-Joe Larkman
+John Smith
 
 # Introduction
 We present aircraft measuments of BBOA over West Africa.
